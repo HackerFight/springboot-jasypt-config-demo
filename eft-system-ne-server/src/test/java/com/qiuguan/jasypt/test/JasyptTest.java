@@ -65,7 +65,7 @@ public class JasyptTest {
         config.setStringOutputType("base64");
         encryptor.setConfig(config);
 
-        String nacos = encryptor.encrypt("nh**2023##");
+        String nacos = encryptor.encrypt("nacos");
         log.info("加密后的密文：{}", nacos);
 
         String decrypt = encryptor.decrypt(nacos);

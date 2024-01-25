@@ -18,7 +18,7 @@ spring:
   cloud:
     nacos:
       username: ENC(BxiyTu1mbvQeaMbhQGrvosNFzd56SRnjs5OQ8BBvg1PacP8JzCHIi+LRdgTqphtn)
-      password: ENC(FRJQ1+PWGLNLU9zq8ZW5HBJiY+GAx8gWsb897pFxEup9dmizsqYLdrZUKIzvcXDG)
+      password: ENC(rZj0kWhkEPZ48B8X7vZNJu1Jvi/Nv/UuUZUWoKljAnRcUfgmE8oCJptLkxNDRk88)
       discovery:
         # 服务注册地址
         server-addr: ${server.nacos}
