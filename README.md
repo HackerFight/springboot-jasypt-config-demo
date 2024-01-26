@@ -146,6 +146,7 @@ jasypt:
 
 
 ## 5.引入后出现的问题
+### 5.1 日志不正常输出
 以前项目中可以正常输出的自定义日志，现在全部都不输出了，后面想着排除`jasypt-spring-boot-starter`里面的日志，但是都没有用，后面就做了这样的调整：<br>
 ```yaml
 logging:
@@ -153,4 +154,44 @@ logging:
     com.qiuguan.jasypt: info  #让我项目中自定义的日志以INFO级别输出
     com.alibaba.nacos: warn   #我看nacos打印一些INFO级别的敏感信息，于是我调整为WARN,不让她输出
     com.ulisesbocchio.jasyptspringboot: warn  #同上
+```
+
+### 5.2 bootstrap.yml文件无法解析用@符号读取的pom文件中的配置
+![img_2.png](eft-system-auth%2Fsrc%2Fmain%2Fresources%2Fimg%2Fimg_2.png) <br>
+
+在pom.xml文件中增加如下配置：
+```xml
+    <build>
+        <!--不然无法解析 bootstrap.yml配置文件中用@读取的pom配置-->
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+    </build>
+
+```
+
+### 5.3 打成jar后无法找到主清单
+在pom.xml文件中增加如下配置：
+```xml
+ <build>
+        <finalName>${project.artifactId}</finalName>
+        <!--不配置这个的话，打成jar包启动会报：没有主清单 -->
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.6.6</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 ```
