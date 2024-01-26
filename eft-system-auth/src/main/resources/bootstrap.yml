@@ -1,6 +1,7 @@
-jasypt:
-  encryptor:
-    password: EftEbfYkitulv73I2p0mXI50h1K0_kA1@eVmAe45jhc9c1E0`aA0(kZ-0)cG2+jE
+#将秘钥和加密后的密码放到一起？似乎也不太安全吧，但是我看几个系统都是这么用的
+#jasypt:
+#  encryptor:
+#    password: EftEbfYkitulv73I2p0mXI50h1K0_kA1@eVmAe45jhc9c1E0`aA0(kZ-0)cG2+jE
 server:
   port: 6040
   host: @server.host@

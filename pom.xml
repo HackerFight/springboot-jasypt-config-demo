@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>eft-system-auth</module>
-        <module>eft-system-ne-server</module>
     </modules>
 
     <properties>
