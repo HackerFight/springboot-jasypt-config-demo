@@ -1,5 +1,6 @@
 package com.qiuguan.jasypt.controller;
 
+import org.springframework.beans.factory.SmartInitializingSingleton;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -9,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2024-01-26 13:29:53 Friday
  */
 @RestController
-public class AuthController {
+public class AuthController implements SmartInitializingSingleton {
 
 
     /**
@@ -42,5 +43,10 @@ public class AuthController {
     @GetMapping("/getpwd")
     public String getPassword() {
         return "mysql password: " + mysqlPassword;
+    }
+
+    @Override
+    public void afterSingletonsInstantiated() {
+        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> mysqlPassword = " + mysqlPassword);
     }
 }
