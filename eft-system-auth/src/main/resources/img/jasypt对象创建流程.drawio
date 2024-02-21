@@ -1,0 +1,215 @@
+<mxfile host="Electron" modified="2024-02-21T15:02:41.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="8qz0pXm18RAQfiTBF2ks" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="Nq9HP8k-YOlnzldPy4ng">
+    <mxGraphModel dx="1034" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1214" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-28" value="create Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;fontColor=#393C56;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-9">
+          <mxGeometry x="0.2245" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-1" value="EnableEncryptablePropertiesConfiguration" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;sketch=1;curveFitting=1;jiggle=2;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="474" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-2" target="cHM0vzmXSG49mNPS2hCI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-2" value="EnableEncryptablePropertiesBeanFactoryPostProcessor" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="280" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="924" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-30" value="creae Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;fontColor=#393C56;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-6">
+          <mxGeometry x="0.3832" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-4" target="cHM0vzmXSG49mNPS2hCI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-4" value="EncryptablePropertySourceConverter" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="814" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-7" value="EncryptablePropertyResolverConfiguration" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;sketch=1;curveFitting=1;jiggle=2;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="794" y="140" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-8" target="cHM0vzmXSG49mNPS2hCI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#F2CC8F;strokeColor=#E07A5F;dashed=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-8" target="cHM0vzmXSG49mNPS2hCI-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1214" y="240" />
+              <mxPoint x="1420" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-70" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-67">
+          <mxGeometry x="-0.1399" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-8" value="DefaultLazyPropertyResolver" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1104" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-10" value="获取BeanFactory对象并调用方法" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-16" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="400" as="sourcePoint" />
+            <mxPoint x="590" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-17" value="getObject()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-16">
+          <mxGeometry x="-0.0171" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-18" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="420" as="sourcePoint" />
+            <mxPoint x="924" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-19" value="resolveDependency" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-18">
+          <mxGeometry x="-0.0171" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-21" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="924" y="450" as="sourcePoint" />
+            <mxPoint x="1214" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-22" value="&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;resolveDependency&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-21">
+          <mxGeometry x="-0.0171" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-24" target="cHM0vzmXSG49mNPS2hCI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-60" value="配置在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-25">
+          <mxGeometry x="-0.2222" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-24" value="&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;JasyptEncryptorConfigurationProperties&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;sketch=1;curveFitting=1;jiggle=2;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1104" y="-30" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-26" target="cHM0vzmXSG49mNPS2hCI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-61" value="配置在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-27">
+          <mxGeometry x="-0.5479" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-26" value="&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;EncryptablePropertyDetector&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;sketch=1;curveFitting=1;jiggle=2;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="60" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-29" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="620" as="sourcePoint" />
+            <mxPoint x="920" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-31" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="710" as="sourcePoint" />
+            <mxPoint x="600" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-32" value="creae Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;fontColor=#393C56;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="599.9983310421485" y="680.0021527719991" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-33" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="720" as="sourcePoint" />
+            <mxPoint x="140" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-35" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="810" as="sourcePoint" />
+            <mxPoint x="260" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-73" value="调用处理器方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-35">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#F2CC8F;strokeColor=#E07A5F;dashed=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-48" target="cHM0vzmXSG49mNPS2hCI-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-71" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-69">
+          <mxGeometry x="-0.0842" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-48" value="DefaultPropertyResolver" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-52" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="500" as="sourcePoint" />
+            <mxPoint x="1520" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-53" value="&lt;div style=&quot;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;聚合&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="cHM0vzmXSG49mNPS2hCI-52">
+          <mxGeometry x="-0.0171" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;fillColor=#F2CC8F;entryX=1.15;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" edge="1" parent="1" source="cHM0vzmXSG49mNPS2hCI-54" target="cHM0vzmXSG49mNPS2hCI-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1580" y="470" />
+              <mxPoint x="1580" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-54" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#393C56;fillColor=#F2CC8F;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="460" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-58" value="最终完成解密的就是该对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="505" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-66" value="EncryptablePropertyResolver" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;sketch=1;curveFitting=1;jiggle=2;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="140" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHM0vzmXSG49mNPS2hCI-72" value="postProcessBeanFactory" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="790" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
